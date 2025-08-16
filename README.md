@@ -8,6 +8,12 @@
 ## 🚀 About Me
 I'm a full stack developer...
 
+## Demo
+
+inter this link to view my website
+[Demo](https://ust-test.github.io/lec7g2/)
+
+
 
 ## Installation
 
